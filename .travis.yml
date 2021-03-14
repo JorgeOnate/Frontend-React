@@ -1,6 +1,11 @@
 language: node_js
 node_js: "15"
 cache: npm
-script: 
-  - "npm install"
-  - "npm start"
+jobs:
+  include:
+    - stage: test
+      script:
+        - "npm install"
+        - "npm run build"
+        - "npm start"
+
