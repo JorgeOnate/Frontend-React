@@ -1,8 +1,24 @@
-# Getting Started with Create React App
+![GitHub](https://img.shields.io/github/license/JorgeOnate/Frontend-React?logo=GitBook)
+![GitHub commit activity](https://img.shields.io/github/commit-activity/w/JorgeOnate/Frontend-React?logo=Git)
+![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/JorgeOnate/Frontend-React)
+![GitHub all releases](https://img.shields.io/github/downloads/JorgeOnate/Frontend-React/total?logo=Markdown)
+![Twitter Follow](https://img.shields.io/twitter/follow/GeejInTheSky?style=social)
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+# Getting Started with Create React App - FRONTEND 🖥
+
+**This project is simply a front end applicacion where there are various componentes that show a side panel a top bar for the page, and a few key elements within the center of the applicacion**
+
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app). In addition the following 
+commands and scripts have to be executed in their following order in order to be able to run the proyect.
+
+## Author 🧑
+
+Jorge Luis Oñate Hernández
+
+## Available Scripts 📃
+
+**THIS PROJECT USED CREATE-REACT-APP IN ORDER TO IMPLEMENT ALL ITS COMPONENTS**
 
 In the project directory, you can run:
 
@@ -45,26 +61,26 @@ You can learn more in the [Create React App documentation](https://facebook.gith
 
 To learn React, check out the [React documentation](https://reactjs.org/).
 
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+### LICENSE MIT 📕
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
