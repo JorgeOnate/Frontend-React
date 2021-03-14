@@ -1,3 +1,10 @@
+![GitHub](https://img.shields.io/github/license/JorgeOnate/Frontend-React?logo=GitBook)
+![GitHub commit activity](https://img.shields.io/github/commit-activity/w/JorgeOnate/Frontend-React?logo=Git)
+![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/JorgeOnate/Frontend-React)
+![GitHub all releases](https://img.shields.io/github/downloads/JorgeOnate/Frontend-React/total?logo=Markdown)
+![Twitter Follow](https://img.shields.io/twitter/follow/GeejInTheSky?style=social)
+
+
 # Getting Started with Create React App - FRONTEND 🖥
 
 **This project is simply a front end applicacion where there are various componentes that show a side panel a top bar for the page, and a few key elements within the center of the applicacion**
