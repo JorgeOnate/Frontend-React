@@ -1,5 +1,7 @@
 # Getting Started with Create React App - FRONTEND 
 
+**This project is simply a front end applicacion where there are various componentes that show a side panel a top bar for the page, and a few key elements within the center of the applicacion**
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app). In addition the following 
 commands and scripts have to be executed in their following order in order to be able to run the proyect.
 
@@ -9,7 +11,8 @@ Jorge Luis Oñate Hernández
 
 ## Available Scripts
 
-*THIS PROJECT USED CREATE-REACT-APP IN ORDER TO IMPLEMENT ALL ITS COMPONENTS*
+**THIS PROJECT USED CREATE-REACT-APP IN ORDER TO IMPLEMENT ALL ITS COMPONENTS**
+
 In the project directory, you can run:
 
 ### `npm start`
